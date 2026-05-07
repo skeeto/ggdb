@@ -1,5 +1,8 @@
 # ggdb: a GDB front-end
 
+**THIS IS AN EARLY WORK IN PROGRESS**. It *basically* works but is not yet
+useful for real debugging.
+
 ImGui front end for GDB using the Machine Interface (MI) protocol. C++20,
 CMake build, Dear ImGui UI. Allows stepping through and inspecting a CMake
 build. Supports at least Windows and Linux.
